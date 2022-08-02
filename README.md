@@ -1,3 +1,7 @@
+# Version 2.0.0
+
+Now supports python 3
+
 # VS Code Alfred Workflow
 
 
